@@ -15,7 +15,6 @@ Vous trouverez ici mes **projets**, mes **compétences** et un accès direct à 
 Je m'appelle **Tobias Ferrand**, développeur passionné et actuellement en **BTS SIO option SLAM**.
 
 🎓 Ancien **Bac Pro SN option RISC**  
-💼 Stage effectué chez **Xefi Saint-Quentin**  
 🛠️ spécialisé dans :
 - Développement web (PHP, JS, React, Vue)
 - Applications de gestion complètes (CRUD, dashboards, intranets)
@@ -82,14 +81,14 @@ Je m'appelle **Tobias Ferrand**, développeur passionné et actuellement en **BT
 
 ## 📬 Contact
 
-📧 **contact@tobias-ferrand.ovh**  
+📧 **tobias.ferrand@proton.me**  
 🌐 **Portfolio :** https://tobias-ferrand.ovh  
-🐙 **GitHub :** https://github.com/TobiasFerrand (modifier si besoin)
+🐙 **GitHub :** https://github.com/tferrand71 (modifier si besoin)
 
 ---
 
 ## ⭐ Remerciements
 
 Merci d’avoir visité mon dépôt !  
-N’hésitez pas à **starrer ⭐** ou me contacter pour des projets, collaborations ou questions.
+N’hésitez pas à me contacter pour des projets, collaborations ou questions.
 
