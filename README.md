@@ -81,9 +81,9 @@ Je m'appelle **Tobias Ferrand**, développeur passionné et actuellement en **BT
 
 ## 📬 Contact
 
-📧 **tobias.ferrand@proton.me**  
+📧 **contact@tobias-ferrand.ovh**  
 🌐 **Portfolio :** https://tobias-ferrand.ovh  
-🐙 **GitHub :** https://github.com/tferrand71 (modifier si besoin)
+🐙 **GitHub :** https://github.com/tferrand71
 
 ---
 
