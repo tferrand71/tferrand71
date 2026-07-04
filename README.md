@@ -6,19 +6,24 @@ Vous trouverez ici mes **projets**, mes **compétences** et un accès direct à 
 ---
 
 ## 🌐 Portfolio  
-👉 **https://tobias-ferrand.ovh**
+👉 **https://tobias-ferrand.fr**
 
 ---
 
 ## 👋 À propos de moi
 
-Je m'appelle **Tobias Ferrand**, développeur passionné et actuellement en **BTS SIO option SLAM**.
+Je m'appelle **Tobias Ferrand**, développeur passionné. Récemment diplômé d'un **BTS SIO option SLAM** (obtenu avec 12/20 de moyenne), j'intègre l'**EPSI d'Arras** pour suivre le cursus **Développeur Full Stack**. 
+Je réalise cette formation en alternance au sein de l'entreprise **AFFUTIS**.
 
-🎓 Ancien **Bac Pro SN option RISC**  
-🛠️ spécialisé dans :
+🎓 **Mon parcours :**
+- **EPSI Arras :** Cursus Développeur Full Stack (en alternance chez AFFUTIS)
+- **BTS SIO option SLAM :** Diplômé
+- **Bac Pro SN option RISC :** Diplômé
+
+🛠️ **Spécialisé dans :**
 - Développement web (PHP, JS, React, Vue)
 - Applications de gestion complètes (CRUD, dashboards, intranets)
-- Hébergement web (OVH, VPS, Mutualisé)
+- Hébergement web & Déploiement (Vercel, OVH, VPS)
 - Bases de données (MySQL, PDO)
 
 ---
@@ -74,15 +79,15 @@ Je m'appelle **Tobias Ferrand**, développeur passionné et actuellement en **BT
 ### 🛠️ Outils  
 - Git / GitHub  
 - phpMyAdmin  
-- VPS Debian / OVH  
+- Vercel / VPS Debian / OVH  
 - VS Code / PHPStorm  
 
 ---
 
 ## 📬 Contact
 
-📧 **contact@tobias-ferrand.ovh**  
-🌐 **Portfolio :** https://tobias-ferrand.ovh  
+📧 **Email :** contact@tobias-ferrand.ovh  
+🌐 **Portfolio :** https://tobias-ferrand.fr  
 🐙 **GitHub :** https://github.com/tferrand71
 
 ---
@@ -91,4 +96,3 @@ Je m'appelle **Tobias Ferrand**, développeur passionné et actuellement en **BT
 
 Merci d’avoir visité mon dépôt !  
 N’hésitez pas à me contacter pour des projets, collaborations ou questions.
-
